@@ -16,15 +16,6 @@ This repository is dedicated to storing all the code, solutions, notes, and impl
 
 ---
 
-## 📑 Learning Path
-
-I’m following **Striver’s A2Z DSA Sheet** as my primary roadmap for learning and practice.
-This sheet is a well-curated step-by-step guide covering all essential topics in DSA.
-
-🔗 [Striver’s A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
-
----
-
 ## 🛠️ Tech Stack
 
 * **Language**: Java
